@@ -6,11 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="portal1" />
+        <module name="grensesnitt" />
         <module name="api1" />
         <module name="felles" />
-        <module name="grensesnitt" />
-        <module name="portal1" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api1" target="1.5" />
+      <module name="backend" target="1.5" />
+      <module name="felles" target="1.5" />
+      <module name="grensesnitt" target="1.5" />
+      <module name="OpenShiftLearn" target="1.5" />
+      <module name="portal" target="1.5" />
+      <module name="portal1" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
