@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/OpenShiftLearn.iml" filepath="$PROJECT_DIR$/.idea/OpenShiftLearn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend/api1/api1.iml" filepath="$PROJECT_DIR$/backend/api1/api1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend/backend.iml" filepath="$PROJECT_DIR$/backend/backend.iml" />
+      <module fileurl="file://$PROJECT_DIR$/backend/felles/felles.iml" filepath="$PROJECT_DIR$/backend/felles/felles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/grensesnitt/grensesnitt.iml" filepath="$PROJECT_DIR$/grensesnitt/grensesnitt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/portal/portal.iml" filepath="$PROJECT_DIR$/portal/portal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/portal/portal1/portal1.iml" filepath="$PROJECT_DIR$/portal/portal1/portal1.iml" />
+    </modules>
+  </component>
+</project>
